@@ -1,6 +1,6 @@
-PROJECT  Tic-Tac-Toe
+<h2>PROJECT  Tic-Tac-Toe</h2>
 
-Scenario
+<b>Scenario</b>
 
 Your task is to write a simple program which pretends to play tic-tac-toe with the user. To make it all easier for you, we've decided to simplify the game. Here are our assumptions:
 
